@@ -1,3 +1,3 @@
-# Person Reveal.js fork
+# Acceptance Test Driven Development for fun and Profile
 
-Starting point for my presentations
+This presentation outlines various practices that are useful for adopting and following an ATDD workflow.
